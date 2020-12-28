@@ -1,4 +1,4 @@
-# Séminaires d'informatique (Industrial seminars in Computer Science) 2020-2021, UMons
+# Séminaires d'informatique (Industrial Seminars in Computer Science) 2020-2021, UMons
 
 - [Page Moodle](https://moodle.umons.ac.be/course/view.php?id=2785)
 
