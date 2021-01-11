@@ -6,7 +6,13 @@
 
 1.	Mercredi 24 Février 2021 (Mons ?)
 
-2.  Vendredi 3 Mars 2021 (Charleroi ?)
+	* *TBA*, [Darius Blasband](https://www.dariusblasband.com/)
+
+
+2.  Vendredi 3 Mars 2021 (?)
+
+	* 	*Data Oriented Design*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
+
 
 3.	Mercredi 10 Mars 2021 (?)
 
