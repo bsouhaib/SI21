@@ -16,11 +16,22 @@
 
 3.	Mercredi 10 Mars 2021 (?)
 
+	* 	*??*, [Xavier Denis](https://www.linkedin.com/in/xavier-denis-822bb533/?originalSubdomain=be), Reimagine
+
+
 4.	Mercredi 17 Mars 2021 (?)
+
+	* 	*??*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
+
 
 5.	Mercredi 24 Mars 2021 (?)
 
+	* 	*??*, [??](??), Odoo
+
+
 6.	Mercredi 31 Mars 2021 (?)
+
+	* 	*??*, [??](??), Bisnode
 
 
 **Vacances de printemps**
