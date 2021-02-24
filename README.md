@@ -4,12 +4,12 @@
 
 # Liste de séminaires
 
-1.	Mercredi 24 Février 2021 (Mons ?)
+1.	Mercredi 24 Février 2021 (Virtual presentation)
 
-	* *TBA*, [Darius Blasband](https://www.dariusblasband.com/)
+	* *Grow your own language: The YAFL story*, [Darius Blasband](https://www.dariusblasband.com/)
 
 
-2.  Vendredi 3 Mars 2021 (?)
+2.  Vendredi 3 Mars 2021 (Virtual presentation)
 
 	* 	*Data Oriented Design*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
 
