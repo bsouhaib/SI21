@@ -9,7 +9,7 @@
 	* *Grow your own language: The YAFL story*, [Darius Blasband](https://www.dariusblasband.com/)
 
 
-2.  Vendredi 3 Mars 2021 (Virtual presentation)
+2.  Mercredi 3 Mars 2021 (Virtual presentation)
 
 	* 	*Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
 
