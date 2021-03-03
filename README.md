@@ -11,7 +11,7 @@
 
 2.  Vendredi 3 Mars 2021 (Virtual presentation)
 
-	* 	*Data Oriented Design*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
+	* 	*Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
 
 
 3.	Mercredi 10 Mars 2021 (?)
