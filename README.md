@@ -14,24 +14,24 @@
 	* 	*Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
 
 
-3.	Mercredi 10 Mars 2021 (?)
+3.	Mercredi 10 Mars 2021 (Virtual presentation)
 
-	* 	*??*, [Xavier Denis](https://www.linkedin.com/in/xavier-denis-822bb533/?originalSubdomain=be), Reimagine
+	* 	*L’intelligence artificielle : ses domaines, ses débouchés professionnels et cas pratiques*, [Xavier Denis](https://www.linkedin.com/in/xavier-denis-822bb533/?originalSubdomain=be), Reimagine
 
 
-4.	Mercredi 17 Mars 2021 (?)
+4.	Mercredi 17 Mars 2021 (Virtual presentation)
 
 	* 	*??*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
 
 
-5.	Mercredi 24 Mars 2021 (?)
+5.	Mercredi 24 Mars 2021 (Virtual presentation)
 
 	* 	*??*, [??](??), Odoo
 
 
-6.	Mercredi 31 Mars 2021 (?)
+6.	Mercredi 31 Mars 2021 (Virtual presentation)
 
-	* 	*??*, [??](??), Bisnode
+	* 	*Lead generation & news monitoring : Une approche machine learning»*, [Brieuc Roland](https://www.linkedin.com/in/brieuc-roland/?locale=en_US) et [Charlotte Hansart](https://www.linkedin.com/in/charlottehansart/?originalSubdomain=be), Bisnode
 
 
 **Vacances de printemps**
