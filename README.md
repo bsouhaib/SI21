@@ -16,12 +16,12 @@
 
 3.	Mercredi 10 Mars 2021 (Virtual presentation)
 
-	* 	*L’intelligence artificielle : ses domaines, ses débouchés professionnels et cas pratiques*, [Xavier Denis](https://www.linkedin.com/in/xavier-denis-822bb533/?originalSubdomain=be), Reimagine
+	* 	*L’intelligence artificielle : ses domaines, ses débouchés professionnels et cas pratiques*, [Xavier Denis](https://www.linkedin.com/in/xavier-denis-822bb533/?originalSubdomain=be) et [Vincent Petit](https://www.linkedin.com/in/petitvincent/?originalSubdomain=be), Reimagine
 
 
 4.	Mercredi 17 Mars 2021 (Virtual presentation)
 
-	* 	*??*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
+	* 	*Le métier passionnant d’expert judiciaire en informatique*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
 
 
 5.	Mercredi 24 Mars 2021 (Virtual presentation)
