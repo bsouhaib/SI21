@@ -26,7 +26,7 @@
 
 5.	Mercredi 24 Mars 2021 (Virtual presentation)
 
-	* 	*??*, [??](??), Odoo
+	* 	*How to scale a company from 10 to 1000 employees?*, [Antony Lesuisse](https://www.linkedin.com/in/antony-lesuisse-91479924/?originalSubdomain=be), Odoo
 
 
 6.	Mercredi 31 Mars 2021 (Virtual presentation)
@@ -48,29 +48,26 @@
 
 Après avoir assisté aux différents séminaires, les étudiants devront choisir un sujet **en rapport avec les séminaires présentés**. Ils devront ensuite donner une présentation sur ce sujet aux autres étudiants. **Attention, il n'est pas permis aux étudiants de présenter un sujet qu'ils ont déjà traité/présenté dans un autre cours (projet, stage, mémoire, etc).**
 
-* Cette présentation sera effectuée par groupe de **trois étudiants** pendant **15 minutes**. Quelques minutes additionelles seront disponibles pour poser des questions.
+* Cette présentation sera effectuée par groupe de **trois étudiants** pendant **15 minutes**. Quelques minutes additionnelles seront disponibles pour poser des questions.
 * Les étudiants ne pourront utiliser qu’un **maximum de 10 slides**, et chaque étudiant devra prendre la parole pour 5 minutes.
 * Les présentations auront lieu les **5 et 12** mai 2021. Ces deux dernières séances (**obligatoires pour tous les étudiants**) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
 
 
 Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les éléments suivants:
 
-* **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires, etc)**
-* **Les slides (polices et couleurs appropriées, pas trop encombrés, figures, lisibilité, etc)**
-* **L'expression orale (fluidité, suscite l'intérêt, vocabulaire technique, cohérence et structure, respect du timing, etc)**
+* **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires, etc.)**
+* **Les slides (polices et couleurs appropriées, pas trop encombrées, figures, lisibilité, etc.)**
+* **L'expression orale (fluidité, suscite l'intérêt, vocabulaire technique, cohérence et structure, respect du timing, etc.)**
 
 # Dates importantes
 
 - **4 avril à 23h59**. Les groupes de trois étudiants sont formés et le sujet est décidé. Chaque groupe doit soumettre cette information sur Moodle (Noms des étudiants, titre de la présentation et bref descriptif du sujet).
 
-
 **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier. N'attendez donc pas la dernière minute pour faire vos choix.**
-
 
 - **2 mai à 23h59**. Les slides sont soumis sur Moodle (en format PDF). On ne pourra plus les modifier. **Chaque étudiant doit soumettre une copie des slides de son groupe**.
 
 - **5 mai à 18h00**. Présentations.
-
 
 - **12 mai à 18h00**. Présentations.
 
