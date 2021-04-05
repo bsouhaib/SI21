@@ -4,41 +4,45 @@
 
 # Liste de séminaires
 
-1.	Mercredi 24 Février 2021 (Virtual presentation)
+1.	Mercredi 24 Février 2021 (Virtual presentation, Microsoft Teams)
 
 	* *Grow your own language: The YAFL story*, [Darius Blasband](https://www.dariusblasband.com/)
 
 
-2.  Mercredi 3 Mars 2021 (Virtual presentation)
+2.  Mercredi 3 Mars 2021 (Virtual presentation, Microsoft Teams)
 
 	* 	*Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), Unity Technologies
 
 
-3.	Mercredi 10 Mars 2021 (Virtual presentation)
+3.	Mercredi 10 Mars 2021 (Virtual presentation, Microsoft Teams)
 
 	* 	*L’intelligence artificielle : ses domaines, ses débouchés professionnels et cas pratiques*, [Xavier Denis](https://www.linkedin.com/in/xavier-denis-822bb533/?originalSubdomain=be) et [Vincent Petit](https://www.linkedin.com/in/petitvincent/?originalSubdomain=be), Reimagine
 
 
-4.	Mercredi 17 Mars 2021 (Virtual presentation)
+4.	Mercredi 17 Mars 2021 (Virtual presentation, Microsoft Teams)
 
 	* 	*Le métier passionnant d’expert judiciaire en informatique*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
 
 
-5.	Mercredi 24 Mars 2021 (Virtual presentation)
+5.	Mercredi 24 Mars 2021 (Virtual presentation, Microsoft Teams)
 
 	* 	*How to scale a company from 10 to 1000 employees?*, [Antony Lesuisse](https://www.linkedin.com/in/antony-lesuisse-91479924/?originalSubdomain=be), Odoo
 
 
-6.	Mercredi 31 Mars 2021 (Virtual presentation)
+6.	Mercredi 31 Mars 2021 (Virtual presentation, Microsoft Teams)
 
 	* 	*Lead generation & news monitoring : Une approche machine learning»*, [Brieuc Roland](https://www.linkedin.com/in/brieuc-roland/?locale=en_US) et [Charlotte Hansart](https://www.linkedin.com/in/charlottehansart/?originalSubdomain=be), Bisnode
 
 
 **Vacances de printemps**
 
-7.	Mercredi 21 Avril 2021 (?)
+7.	Mercredi 21 Avril 2021 (Virtual presentation, Microsoft Teams)
 
-8.	Mercredi 28 Avril 2021 (?)
+* *Quantum Computing illustrated with Qiskit*, [Eric Michiels](https://www.linkedin.com/in/eric-michiels-87a17016/?originalSubdomain=be)
+
+8.	Mercredi 28 Avril 2021 (Virtual presentation, Microsoft Teams)
+
+	* *Graph & Network Analytics - The power of relations*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS 
 
 9. 	Mercredi 5 Mai 2021 (?)
 
@@ -71,5 +75,30 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 - **12 mai à 18h00**. Présentations.
 
+
+
+# Groupes
+
+1. Eric Komol Nlend, Laurent Masset, Julien Roger. **La racine carrée inverse rapide dans Quake III**.
+
+2. Simon Falesse, Florian Simond, Palmeri Raphael. **Unity: outils de création de jeux vidéo pour le milieu médical**.
+
+3. Dascotte Louis, Dauchot Randy, Cardoen Guillaume. **Les dangers (et limites) actuels de l’intelligence artificielle en entreprise**. 
+
+4. Dylan Piette, Benoit Minsart, Corentin Dachy. **Data oriented design : Une approche pratique**.
+
+5. Aurélie Cools, Nathalie Cazzitti, Philbert Sitio Sitio. **Qu’est devenu le projet YAFL ?**.
+
+6. IBRAIMOVSKI Roméo, REMY Laurent, TOUNDOU Albert. **Pourquoi utiliser l'approche agile pour le développement logiciel ?**
+
+7. Brenart Thomas, Dell'Aria Doriano, Goffaux Lionel. **Le NLP (Natural Language Processing) au service des entreprises**.
+
+8. LUBANZADIO MAVOKA, Gingu MELUZOLA KIMFUTA, Paul ONDAFE MATOCK. **L’analyse forensique**.
+
+9. Zakaria ARIF, Youssef ALLOUCHI, Adel EL MISKI. **Le prétraitement des données**.
+
+10. EL BANNOUDI Salim, MEDUGNO Rino, MONIQUET Didier. **La réalité augmentée, une collaboration gagnante multidimensionnelle et multidomaine**.
+
+11. Salvatore Luca, Ganseman Robin, Rosati Alexandre. **Introduction aux algorithmes et méthodologies implémentés dans les jeux vidéo utilisant l’Intelligence Artificielle**.
 
 
