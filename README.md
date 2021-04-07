@@ -83,22 +83,35 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 2. Simon Falesse, Florian Simond, Palmeri Raphael. **Unity: outils de création de jeux vidéo pour le milieu médical**.
 
-3. Dascotte Louis, Dauchot Randy, Cardoen Guillaume. **Les dangers (et limites) actuels de l’intelligence artificielle en entreprise**. 
+3. Louis Dascotte, Randy Dauchot, Guillaume Cardoen. **Les dangers (et limites) actuels de l’intelligence artificielle en entreprise**. 
 
 4. Dylan Piette, Benoit Minsart, Corentin Dachy. **Data oriented design : Une approche pratique**.
 
 5. Aurélie Cools, Nathalie Cazzitti, Philbert Sitio Sitio. **Qu’est devenu le projet YAFL ?**.
 
-6. IBRAIMOVSKI Roméo, REMY Laurent, TOUNDOU Albert. **Pourquoi utiliser l'approche agile pour le développement logiciel ?**
+6. Roméo Ibraimovski, Laurent Remy, Albert Toundou. **Pourquoi utiliser l'approche agile pour le développement logiciel ?**
 
-7. Brenart Thomas, Dell'Aria Doriano, Goffaux Lionel. **Le NLP (Natural Language Processing) au service des entreprises**.
+7. Thomas Brenart, Doriano Dell'Aria, Lionel Goffaux. **Le NLP (Natural Language Processing) au service des entreprises**.
 
-8. LUBANZADIO MAVOKA, Gingu MELUZOLA KIMFUTA, Paul ONDAFE MATOCK. **L’analyse forensique**.
+8. Lubanzadio Mavoka, Gingu Meluzola Kimfuta, Paul Ondafe Matock. **L’analyse forensique**.
 
-9. Zakaria ARIF, Youssef ALLOUCHI, Adel EL MISKI. **Le prétraitement des données**.
+9. Zakaria Arif, Youssef Allouchi, Adel El Miski. **Le prétraitement des données**.
 
-10. EL BANNOUDI Salim, MEDUGNO Rino, MONIQUET Didier. **La réalité augmentée, une collaboration gagnante multidimensionnelle et multidomaine**.
+10. Salim El Bannoudi, Rino Medugno, Didier Moniquet. **La réalité augmentée, une collaboration gagnante multidimensionnelle et multidomaine**.
 
-11. Salvatore Luca, Ganseman Robin, Rosati Alexandre. **Introduction aux algorithmes et méthodologies implémentés dans les jeux vidéo utilisant l’Intelligence Artificielle**.
+11. Luca Salvatore, Robin Ganseman, Alexandre Rosati. **Introduction aux algorithmes et méthodologies implémentés dans les jeux vidéo utilisant l’Intelligence Artificielle**.
+
+12. François Callens, Nicolas Goffinet, Guillaume Kerckhofs. **Les algorithmes de recommandation et leur IA dans le cadre des services de vidéo à la demande**.
+
+13. Ingrid Fondja, Junior Lole, Roman Oleinik. **L'intelligence artificielle dans le domaine médical**.
+
+14. Abdelouahad Alla, Jérémy Moffa. **Intelligence artificielle dans les smartphones**.
+
+15. ?
+
+16. ?
+
+
+
 
 
