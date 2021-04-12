@@ -107,9 +107,13 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 14. Abdelouahad Alla, Jérémy Moffa. **Intelligence artificielle dans les smartphones**.
 
-15. ?
+15. Njopmou Nankap Maël, Guillaume Cardinal, Baptiste Bonnet. **Où trouver de bonnes données pour un projet de machine Learning ?**
 
 16. ?
+
+
+
+
 
 
 
