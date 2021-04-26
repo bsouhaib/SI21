@@ -105,11 +105,14 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 13. Ingrid Fondja, Junior Lole, Roman Oleinik. **L'intelligence artificielle dans le domaine médical**.
 
-14. Abdelouahad Alla, Jérémy Moffa. **Intelligence artificielle dans les smartphones**.
 
-15. Njopmou Nankap Maël, Guillaume Cardinal, Baptiste Bonnet. **Où trouver de bonnes données pour un projet de machine Learning ?**
+14. Njopmou Nankap Maël, Guillaume Cardinal, Baptiste Bonnet. **Où trouver de bonnes données pour un projet de machine Learning ?**
 
-16. ?
+15. Maxime Renversez, William Walcarius. **Le machine learning et l’intelligence artiﬁcielle dans le secteur bancaire**.
+
+16. Duvivier Patrick, Arnould Arnaud. **L’IA et le machine learning dans le domaine des cameras urbaines (ANPR)**.
+
+17. Abdelouahad Alla, Jérémy Moffa. **Intelligence artificielle dans les smartphones**.
 
 
 
