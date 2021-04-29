@@ -73,11 +73,32 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 - **5 mai à 18h00**. Présentations.
 
+	- *18:00 - 18:15*. 1. Eric Komol Nlend, Laurent Masset, Julien Roger.
+	- *18:15 - 18:30*. 2. Simon Falesse, Florian Simond, Palmeri Raphael.
+	- *18:30 - 18:45*. 3. Louis Dascotte, Randy Dauchot, Guillaume Cardoen.
+	- *18:45 - 19:00*. 4. Dylan Piette, Benoit Minsart, Corentin Dachy.
+	- Pause
+	- *19:20 - 19:35*. 5. Aurélie Cools, Nathalie Cazzitti, Philbert Sitio Sitio.
+	- *19:35 - 19:50*. 6. Roméo Ibraimovski, Laurent Remy, Albert Toundou.
+	- *19:50 - 20h05*. 7. Thomas Brenart, Doriano Dell'Aria, Lionel Goffaux.
+	- *20h05 - 20h20*. 8. Lubanzadio Mavoka, Gingu Meluzola Kimfuta, Paul Ondafe Matock.
+
+
 - **12 mai à 18h00**. Présentations.
 
+	- *18:00 - 18:15*. 9. Zakaria Arif, Youssef Allouchi, Adel El Miski.
+	- *18:15 - 18:30*. 10. Salim El Bannoudi, Rino Medugno, Didier Moniquet.
+	- *18:30 - 18:45*. 11. Luca Salvatore, Robin Ganseman, Alexandre Rosati.
+	- *18:45 - 19:00*. 12. François Callens, Nicolas Goffinet, Guillaume Kerckhofs.
+	- Pause
+	- *19:20 - 19:35*. 13. Ingrid Fondja, Junior Lole, Roman Oleinik.
+	- *19:35 - 19:50*. 14. Njopmou Nankap Maël, Guillaume Cardinal, Baptiste Bonnet.
+	- *19:50 - 20h05*. 15. Maxime Renversez, William Walcarius.
+	- *20h05 - 20h20*. 16. Duvivier Patrick, Arnould Arnaud.
+	- *20h20 - 20h35*. 17. Abdelouahad Alla, Jérémy Moffa.
 
 
-# Groupes
+# Groupes 
 
 1. Eric Komol Nlend, Laurent Masset, Julien Roger. **La racine carrée inverse rapide dans Quake III**.
 
@@ -104,7 +125,6 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 12. François Callens, Nicolas Goffinet, Guillaume Kerckhofs. **Les algorithmes de recommandation et leur IA dans le cadre des services de vidéo à la demande**.
 
 13. Ingrid Fondja, Junior Lole, Roman Oleinik. **L'intelligence artificielle dans le domaine médical**.
-
 
 14. Njopmou Nankap Maël, Guillaume Cardinal, Baptiste Bonnet. **Où trouver de bonnes données pour un projet de machine Learning ?**
 
