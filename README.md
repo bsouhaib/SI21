@@ -86,7 +86,7 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 - **12 mai à 18h00**. Présentations.
 
-	- *18:00 - 18:15*. 9. Zakaria Arif, Youssef Allouchi, Adel El Miski.
+	- *18:00 - 18:15*. 9. Annulé
 	- *18:15 - 18:30*. 10. Salim El Bannoudi, Rino Medugno, Didier Moniquet.
 	- *18:30 - 18:45*. 11. Luca Salvatore, Robin Ganseman, Alexandre Rosati.
 	- *18:45 - 19:00*. 12. François Callens, Nicolas Goffinet, Guillaume Kerckhofs.
